@@ -1,0 +1,17 @@
+{
+  "milestone": "day-02",
+  "team": "好难起名组",
+  "members": [
+    "玄浩辰",
+    "黄皓晨",
+    "穆嘉奕",
+    "谢一苇"
+  ],
+  "repository_url": "（推送前填写 GitHub 仓库 URL）",
+  "run_command": "python train.py --model cnn --epochs 8",
+  "test_command": "python tests/test_models.py -v",
+  "report": "report.md",
+  "presentation": "presentation.pptx",
+  "presentation_minutes": 3,
+  "student_confirmed_no_secrets": false
+}
