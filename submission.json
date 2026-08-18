@@ -7,7 +7,7 @@
     "穆嘉奕",
     "谢一苇"
   ],
-  "repository_url": "（推送前填写 GitHub 仓库 URL）",
+  "repository_url": "https://github.com/tissuefish/ai-camp-2026-d2-xuanhaochen-u202410766",
   "run_command": "python train.py --model cnn --epochs 8",
   "test_command": "python tests/test_models.py -v",
   "report": "report.md",
