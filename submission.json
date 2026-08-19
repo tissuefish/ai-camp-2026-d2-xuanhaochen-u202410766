@@ -1,12 +1,7 @@
 {
   "milestone": "day-02",
   "team": "好难起名组",
-  "members": [
-    "玄浩辰",
-    "黄皓晨",
-    "穆嘉奕",
-    "谢一苇"
-  ],
+  "members": [],
   "repository_url": "https://github.com/tissuefish/ai-camp-2026-d2-xuanhaochen-u202410766",
   "run_command": "python train.py --model cnn --epochs 8",
   "test_command": "python tests/test_models.py -v",
